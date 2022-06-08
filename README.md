@@ -1,1 +1,1 @@
-Further development of Capstone-II, "Task manager" system which improves in that functions and textfiles have been used. This information may be manipulated depending on the user logged in to add or change existing information within the program
+
